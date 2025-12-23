@@ -26,3 +26,5 @@ git clone https://github.com/Surya-TheCyberConqueror/osint-whois.git
 cd osint-whois
 chmod +x install.sh
 ./install.sh
+osintwhois
+osintwhois example.com
