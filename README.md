@@ -24,4 +24,4 @@ A powerful Bash-based OSINT WHOIS tool designed for cybersecurity professionals,
 ```bash
 git clone https://github.com/yourusername/osint-whois.git
 cd osint-whois
-chmod +x osint-whois.sh
+chmod +x install.sh
