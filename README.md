@@ -22,7 +22,7 @@ A powerful Bash-based OSINT WHOIS tool designed for cybersecurity professionals,
 
 ## 📦 Installation
 ```bash
-git clone https://github.com/yourusername/osint-whois.git
+git clone https://github.com/Surya-TheCyberConqueror/osint-whois.git
 cd osint-whois
 chmod +x install.sh
 ./install.sh
